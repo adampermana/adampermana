@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Adam Permana-indonesia![Indonesia](https://im4.ezgif.com/tmp/ezgif-4-89da47f0ab.png)
+Hi there 👋<br>I'm Adam Permana-indonesia
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adampermana04/) 

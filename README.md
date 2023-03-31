@@ -15,8 +15,7 @@ Hi there 👋<br>I'm Adam Permana-indonesia
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs?username=adampermana&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adampermana&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=adampermana&theme=algolia&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adampermana&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies

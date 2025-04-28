@@ -46,9 +46,27 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adampermana&theme=algolia&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampermana&theme=algolia&layout=compact" alt="Top Languages" />
+  
+<div align="center">
+  <table>
+    <tr>
+      <td style="border: none; width: 33%;">
+        <div align="center" style="padding: 10px;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=adampermana&theme=algolia" alt="GitHub Streak" width="100%"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adampermana&label=Profile%20views&color=0e75b6&style=flat" alt="adampermana" />
+</div>
+
 ---
+
+
 
 ### 🏆 GitHub Trophies
 <p align="center">

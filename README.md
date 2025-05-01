@@ -46,18 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adampermana&theme=algolia&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampermana&theme=algolia&layout=compact" alt="Top Languages" />
-  
-<div align="center">
-  <table>
-    <tr>
-      <td style="border: none; width: 33%;">
-        <div align="center" style="padding: 10px;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=adampermana&theme=algolia" alt="GitHub Streak" width="100%"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+
 </p>
 
 <div align="center">
@@ -79,7 +68,12 @@
 
 ---
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adampermana)
+## ❤️ Support My Work
+If you find my work valuable, your support means the world to me! It helps me focus on creating more, learning, and growing.
+Thank you for your generosity and support! ☕
+
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/adampermana)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/adampermana)
   
 <!-- Proudly created with Adam Permana -->

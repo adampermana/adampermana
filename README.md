@@ -1,3 +1,4 @@
+</div>
 <h1 align="center">Hi 👋, I'm Adam Permana</h1>
 <h3 align="center">Developer from Indonesia | Specializing in mobile apps, websites, and backend development</h3>
 
@@ -42,8 +43,13 @@
 
 ---
 
+
+
 ### 📊 GitHub Stats:
-<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=adampermana&theme=whatsapp-dark2&mode=weekly" alt="adampermana" />
+</div>
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adampermana&theme=algolia&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampermana&theme=algolia&layout=compact" alt="Top Languages" />
 
@@ -51,18 +57,15 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adampermana&label=Profile%20views&color=0e75b6&style=flat" alt="adampermana" />
-</div>
+</div> -->
 
 ---
 
-
-
-### 🏆 GitHub Trophies
-<p align="center">
+<!--### 🏆 GitHub Trophies
+ <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adampermana&theme=radical&margin-w=5&no-bg=true&no-frame=true" />
-</p>
+</p> -->
 
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

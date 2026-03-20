@@ -1,73 +1,70 @@
-</div>
-<h1 align="center">Hi 👋, I'm Adam Permana</h1>
-<h3 align="center">Developer from Indonesia | Specializing in mobile apps, websites, and backend development</h3>
-
----
-<p align="center">
-  <img align="center" alt="Coding" width="350" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" />
-</p>
-
-### 🧰 Languages and Tools:
-<p align="center">
-  <!-- Tambahkan/ubah tools sesuai kebutuhan -->
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/hono-6ge6rolcrcsqnvk7r685s.png/hono-lni310gpnzm7h0sumu9xrk.png?_a=DAJFJtWIZAAC" alt="Hono" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40"/>
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png" alt="external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/>
-</p>
-
----
-
-### 📫 Connect with me:
-<p align="center">
-  <a href="https://linkedin.com/in/adam permana" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/adampermana04" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30"/>
-  </a>
-</p>
-
----
-
-
-
-### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=adampermana&theme=whatsapp-dark2&mode=weekly" alt="adampermana" />
-</div>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adampermana&theme=algolia&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampermana&theme=algolia&layout=compact" alt="Top Languages" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6fef&height=120&section=header&text=Adam%20Permana&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%7C%20Web%20%7C%20Backend%20Developer&descAlignY=60&descColor=c9c0f7" width="100%"/>
+
+<p align="center">
+  <a href="https://adampermana.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-adampermana.netlify.app-7c6fef?style=flat-square&logo=netlify&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/adampermana">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Permana-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/adampermana04">
+    <img src="https://img.shields.io/badge/Instagram-@adampermana04-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=adampermana&style=flat-square&color=7c6fef&label=Profile+Views"/>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adampermana&label=Profile%20views&color=0e75b6&style=flat" alt="adampermana" />
-</div> -->
+</div>
 
 ---
 
-<!--### 🏆 GitHub Trophies
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adampermana&theme=radical&margin-w=5&no-bg=true&no-frame=true" />
-</p> -->
+## About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm a developer from **Indonesia** specializing in cross-platform mobile apps, modern web experiences, and scalable backend systems. I enjoy turning ideas into clean, performant products — from design handoff to production deployment.
+
+- 🔭 Currently building cross-platform mobile apps with **Flutter** and backend APIs with **Hono.js**
+- 🌱 Exploring **Swift** and **Kotlin** for native mobile development
+- 🤝 Open to freelance projects, collaborations, and open-source contributions
+- 📍 Based in Indonesia — working across time zones
+
+---
+
+## Tech Stack
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### Web & Backend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=adampermana&theme=tokyonight&mode=weekly" height="150"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adampermana&theme=tokyonight&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampermana&theme=tokyonight&layout=compact&hide_border=true" height="150"/>
+</div>
 
 ---
 
@@ -78,5 +75,7 @@ Thank you for your generosity and support! ☕
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/adampermana)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/adampermana)
-  
-<!-- Proudly created with Adam Permana -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6fef&height=80&section=footer" width="100%"/>
+</div>

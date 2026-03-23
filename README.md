@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6fef&height=120&section=header&text=Adam%20Permana&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%7C%20Web%20%7C%20Backend%20Developer&descAlignY=60&descColor=c9c0f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6fef&height=180&section=header&text=Adam%20Permana&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%7C%20Web%20%7C%20Backend%20Developer&descAlignY=60&descColor=c9c0f7" width="100%"/>
 
 <p align="center">
   <a href="https://adampermana.netlify.app">

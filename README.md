@@ -80,9 +80,6 @@ I'm a developer from **Indonesia** specializing in cross-platform mobile apps, m
   </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adampermana&theme=high-contrast)](https://github.com/adampermana/github-readme-activity-graph)
-
-
 ---
 
 ## ❤️ Support My Work
